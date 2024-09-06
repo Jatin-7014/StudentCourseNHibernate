@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\StudentCourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|d:\\mvc\\studentcourseapp\\studentcourseapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|d:\\mvc\\studentcourseapp\\studentcourseapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|d:\\mvc\\studentcourseapp\\studentcourseapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|d:\\mvc\\studentcourseapp\\studentcourseapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\mappings\\studentsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\mappings\\studentsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|D:\\MVC\\StudentCourseApp\\studentcourseapp\\mappings\\coursemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C3D91-EE7F-4F64-8D85-3264E7B40B09}|StudentCourseApp\\StudentCourseApp.csproj|solutionrelative:studentcourseapp\\mappings\\coursemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudentCourseApp\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:54:48.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentCourseApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:54:16.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentCourseApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:53:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentCourseApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:10:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentCourseApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwF4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:24:31.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Data\\NHibernateHelper.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "StudentCourseApp\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:00:28.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseMap.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Mappings\\CourseMap.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Mappings\\CourseMap.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Mappings\\CourseMap.cs",
+              "RelativeToolTip": "StudentCourseApp\\Mappings\\CourseMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:13:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsMap.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Mappings\\StudentsMap.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Mappings\\StudentsMap.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Mappings\\StudentsMap.cs",
+              "RelativeToolTip": "StudentCourseApp\\Mappings\\StudentsMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:13:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Models\\Course.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Models\\Course.cs",
+              "RelativeToolTip": "StudentCourseApp\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:46:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCourseApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:46:27.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StudentCourseApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MVC\\StudentCourseApp\\StudentCourseApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StudentCourseApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:24:54.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
